@@ -8,7 +8,7 @@
 
 # Building & Running
 
-* `$ git clone --recurse-submodules https://github.com/jdah/doomenstein-3d.git` 
+* `$ git clone --recurse-submodules https://github.com/ivannikovaleksej10/doomenstein-3d.git` 
 
 **compile and install SDL:**
 
