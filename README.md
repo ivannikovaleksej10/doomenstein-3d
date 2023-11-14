@@ -32,4 +32,4 @@
 
 **After**
 * `$ cd src`
-* `$ gcc main_wolf.c -o wolf.exe -lSDL2 -lm`
+* `$ gcc NAME.c -o NAME -lSDL2 -lm`
