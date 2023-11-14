@@ -1,5 +1,5 @@
 # Wolfenstein/DOOM style software renderers
-Fork of [jdah](https://github.com/jdah) [doomenstein-3d](https://github.com/jdah/doomenstein-3d) (Original repo)
+### Fork of [jdah](https://github.com/jdah) [doomenstein-3d](https://github.com/jdah/doomenstein-3d) \
 
 ![project screenshot](screen/image.png)
 
@@ -8,7 +8,9 @@ Fork of [jdah](https://github.com/jdah) [doomenstein-3d](https://github.com/jdah
 
 # Building & Running
 
-compile and install SDL:
+* `$ git clone --recurse-submodules https://github.com/jdah/doomenstein-3d.git` 
+
+**compile and install SDL:**
 
 * `$ cd doomenstein-3d/lib/SDL`
 
